@@ -19,7 +19,9 @@ pip install mechanize
 pip install requests
 
 git clone https://github.com/Afghano02/free.git
+
 cd free
+
 python Afghanoo.py
 
 👋👋👋👋👋👋👋👋
